@@ -1,0 +1,22 @@
+{
+  "basic":{
+    "objective":"all are true"
+  },
+  "education":[
+    {
+      "degree":"B.tech(computer science of engineering)",
+      "college":"klmcew",
+      "data":["2015-19,"75%]
+    },
+    {
+      "degree":"state board of technical education(intermediate)",
+      "college":"venkateshwara",
+      "data":["2013-15","77%"]
+    },
+    {
+      "degree":"ssc",
+      "college":"kendria vidyalaya",
+    "data":["2012-13","72%"]
+    }
+  ]
+}
